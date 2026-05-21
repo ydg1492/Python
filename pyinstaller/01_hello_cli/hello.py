@@ -1,0 +1,6 @@
+print('Hello World')
+
+#5초간 종료되지 않도록...
+import time
+time.sleep(10)
+
